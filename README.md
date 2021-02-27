@@ -1,16 +1,13 @@
-### Hi there 👋
+# Nick Moore
 
-<!--
-**nickzoic/nickzoic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Nick Moore" align="left" src="img/nick-moore.jpg">
 
-Here are some ideas to get you started:
+Freelance Open Source Software consultant based in Melbourne, Australia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Particularly interested in and sometimes contributing to
+[MicroPython](https://micropython.org).  You can sponsor this work via
+Github or get in touch if there's features you're interested in having
+developed.
+
+Lots more stuff on embedded systems, retrocomputing, languages and
+wild speculation at [my blog: nick.zoic.org](https://nick.zoic.org/)
