@@ -1,6 +1,6 @@
 # Nick Moore
 
-<img alt="Nick Moore" align="left" src="img/nick-moore.jpg">
+<img alt="Nick Moore" align="left" src="img/nick-moore-small.jpg">
 
 Freelance Open Source Software consultant based in Melbourne, Australia.
 
